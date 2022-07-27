@@ -1,0 +1,4 @@
+name: HCraftAntibot
+version: '${project.version}'
+main: me.dakto101.HCraftAntibot
+description: HCraft  plugin
